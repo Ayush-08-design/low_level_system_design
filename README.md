@@ -13,6 +13,16 @@ A collection of system design patterns implemented in Python. This repository fo
 * **Url Shortener**
 * **Notification System**
 * **Text Editor**
+* **Restaurant System**
+* **TrafficContorl System**
+* **SearchIndexer**
+* **LoggerSystem**
+* **Elevator System**
+* **Library System**
+* **Chess Game**
+* **Calendar Booking System**
+* **Authentication System**
+* **Vending Machine**
 
 ### Prerequisites
 Make sure you have Python installed:
