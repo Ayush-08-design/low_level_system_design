@@ -23,7 +23,22 @@ A collection of system design patterns implemented in Python. This repository fo
 * **Calendar Booking System**
 * **Authentication System**
 * **Vending Machine**
-
+* **AuctionSystem**
+* **AutocompleteSystem**
+* **DistributedLockSystem**
+* **FormValidator**
+* **DiscountManagerSystem**
+* **DistributedCounterSystem**
+* **BookingSystem**
+* **CircuitBreakerSystem**
+* **DependencyInjectionSystem**
+* **Ecommerce_ShoppingCartSystem**
+* **LoyaltySystem**
+* **RoleManagementSystem**
+* **PaymentGatewaySystem**
+* **VendingMachineSystem**
+* **WorkflowSystem**
+* **ShippingandLogisticsSystem**
 ### Prerequisites
 Make sure you have Python installed:
 ```bash
