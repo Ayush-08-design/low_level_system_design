@@ -6,39 +6,57 @@ A collection of system design patterns implemented in Python. This repository fo
 
 * **Rate Limiter**: Controls traffic by limiting user requests within a time window (e.g., Token Bucket, Leaking Bucket).
 * **Load Balancer**: Distributes incoming network traffic across multiple backend servers (e.g., Round Robin, Weighted Round Robin, Least Connections).
-* **Atm System**
-* **File Uploader**
-* **Id generator**
-* **In memory cache**
-* **Url Shortener**
-* **Notification System**
-* **Text Editor**
-* **Restaurant System**
-* **TrafficContorl System**
-* **SearchIndexer**
-* **LoggerSystem**
-* **Elevator System**
-* **Library System**
-* **Chess Game**
-* **Calendar Booking System**
-* **Authentication System**
-* **Vending Machine**
+* **ATM System**
 * **AuctionSystem**
+* **Authentication System**
 * **AutocompleteSystem**
-* **DistributedLockSystem**
-* **FormValidator**
+* **BookingSystem**
+* **BulkDataImporterSystem**
+* **Calendar Booking System**
+* **Chess Game**
+* **CircuitBreakerSystem**
+* **SimpleCodeCompiler**
+* **ConfigurationManager**
+* **DependencyInjectionSystem**
 * **DiscountManagerSystem**
 * **DistributedCounterSystem**
-* **BookingSystem**
-* **CircuitBreakerSystem**
-* **DependencyInjectionSystem**
+* **DistributedLockSystem**
+* **DynamicFeatureFlagManager**
 * **Ecommerce_ShoppingCartSystem**
+* **Elevator System**
+* **File Uploader**
+* **FormValidator**
+* **GeoLocationServiceSystem**
+* **HealthMonitorSystem**
+* **Library System**
+* **Id generator**
+* **In memory cache**
+* **Job Queue System**
+* **LibrarySystem**
+* **LoggerSystem**
 * **LoyaltySystem**
-* **RoleManagementSystem**
+* **Multi Factor Authentication System**
+* **Notification System**
+* **PasswordVaultSystem**
 * **PaymentGatewaySystem**
-* **VendingMachineSystem**
-* **WorkflowSystem**
+* **ProductReviewSystem**
+* **Restaurant System**
+* **RoleManagementSystem**
+* **SearchIndexer**
 * **ShippingandLogisticsSystem**
+* **SubscriptionManager**
+* **Text Editor**
+* **TicTacToeGame**
+* **TrafficContorl System**
+* **UndoRedoSystem** 
+* **Url Shortener**
+* **VendingMachineSystem**
+* **VideoStreamingSystem**
+* **WorkflowSystem**
+
+* ** **
+* ** **
+* ** **
 ### Prerequisites
 Make sure you have Python installed:
 ```bash
@@ -48,5 +66,5 @@ python --version
 ### Running Examples
 Navigate to a specific pattern file and run the file:
 ```bash
-python Rate_Limiter.py
+python RateLimiter.py
 ```
